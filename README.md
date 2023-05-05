@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![9016b4477aab4439aa8ac79bdf7e766b](https://user-images.githubusercontent.com/88222714/222878536-4a1995fe-ad26-4a19-b62c-1804183853f3.png)
 
-第二：这是我喜欢的“https://mp.weixin.qq.com/s/DykraX26KFx4e2tWUCWBUQ”
+第二：这是我喜欢的(已删除)
