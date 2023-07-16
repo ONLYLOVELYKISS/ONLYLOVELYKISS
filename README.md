@@ -1,6 +1,6 @@
 ### 你好，欢迎来到非专业且富有兴趣以及菜到家的菜狗😁
 
-![](https://github-readme-stats.vercel.app/api?username=ONLYLOVELYKISS&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=ONLYLOVELYKISS)
 
 <!--
 **ONLYLOVELYKISS/ONLYLOVELYKISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![9016b4477aab4439aa8ac79bdf7e766b](https://user-images.githubusercontent.com/88222714/222878536-4a1995fe-ad26-4a19-b62c-1804183853f3.png)
 
 第二：这是我喜欢的(已删除)
+
+https://cn.widgetstore.net/view/index.html?q=ca780ad562f6ffad10f5555672c2bd74.f432e53164b3605f00017930109a54e4
