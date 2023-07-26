@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ### 战地
 
-<iframe src="https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bf1/zh-CN/50" height="380px" width="600px" frameborder="0" allowtransparency="true"></iframe>
+![ONLYLOVELY's Battlefield 1 Stats](https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bf1/zh-CN/50)
+
