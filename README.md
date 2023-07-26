@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ### 战地
 
-![ONLYLOVELY's Battlefield 1 Stats](https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bf1/zh-CN/50)
+
 
