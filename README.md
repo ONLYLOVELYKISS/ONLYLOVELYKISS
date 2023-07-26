@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### 战地
+
+<iframe src="https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bf1/zh-CN/50" height="380px" width="600px" frameborder="0" allowtransparency="true"></iframe>
