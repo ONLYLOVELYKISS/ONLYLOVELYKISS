@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 ### 战地
+<div align="center">
+  <iframe title="Stats widget" src="https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bfv/zh-CN/50" height="380px" width="600px" frameborder="0" allowtransparency="true"></iframe>
+</div>
 
 
 
