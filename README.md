@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ### 战地
 [点击查看我的Battlefield V统计数据](https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bfv/zh-CN/50)
-
-<iframe title="Stats widget" src="https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bfv/zh-CN/50" height="380px" width="600px" frameborder="0" allowtransparency="true"></iframe>
+[Stats widget](https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bfv/zh-CN/50)
 
 
