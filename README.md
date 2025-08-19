@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there 👋, I'm ONLYLOVELYKISS
 
 [![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ONLYLOVELYKISS&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,3 +26,4 @@
 ### ✨ My GitHub Profile Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ONLYLOVELYKISS&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
