@@ -1,2 +1,24 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
+name: Generate Snake Game from Contribution Grid
+
+on:
+  # 触发工作流的事件
+  schedule:
+    - cron: "0 0 * * *" # 每天运行一次，更新贪吃蛇游戏
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake game
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: ONLYLOVELYKISS # 您的GitHub用户名
+          github_token: ${{ secrets.GITHUB_TOKEN }} # 如果您需要更高的权限，可以使用这个
+
+          outputs: |
+            dist/github-snake.svg?palette=github-dark
+            dist/github-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-light.svg?palette=github-light&color_snake=#7845ab
