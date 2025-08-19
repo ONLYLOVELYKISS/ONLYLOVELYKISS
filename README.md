@@ -1,31 +1,27 @@
-### 你好，欢迎来到非专业且富有兴趣以及菜到家的菜狗😁
+# Hi there 👋, I'm ONLYLOVELYKISS
 
-![](https://github-readme-stats.vercel.app/api?username=ONLYLOVELYKISS)
+[![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ONLYLOVELYKISS&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ONLYLOVELYKISS/ONLYLOVELYKISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-第一：关注我的公众号吧，总算无聊加上捧场吧！
+- 🔭 I'm currently working on [你的项目或工作].
+- 🌱 I'm currently learning [你正在学习的技术].
+- 👯 I'm looking to collaborate on [你感兴趣的开源项目或领域].
+- 💬 Ask me about [你擅长的领域].
+- 📫 How to reach me: [你的邮箱].
 
-![9016b4477aab4439aa8ac79bdf7e766b](https://user-images.githubusercontent.com/88222714/222878536-4a1995fe-ad26-4a19-b62c-1804183853f3.png)
+---
 
-第二：这是我喜欢的(已删除)
+### 🔧 Technologies & Tools
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 战地
-[点击查看我的Battlefield V统计数据](https://widgets.gametools.network/stats/pc/name/ONLYLOVELY/bfv/zh-CN/50)
+---
 
+### ✨ My GitHub Profile Trophies
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ONLYLOVELYKISS&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
