@@ -37,5 +37,10 @@
 ---
 
 ### 👀 期待与你相遇！
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ONLYLOVELYKISS/ONLYLOVELYKISS/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ONLYLOVELYKISS/ONLYLOVELYKISS/output/dist/github-contribution-grid-snake.svg">
+  <img alt="snk" src="https://raw.githubusercontent.com/ONLYLOVELYKISS/ONLYLOVELYKISS/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
