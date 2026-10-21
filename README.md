@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>非 IT 行业从业者 · 写代码纯粹是个人爱好</strong><br />
+  <strong>非 IT 行业从业者 · Copy代码纯粹是个人爱好</strong><br />
   从日常遇到的小问题出发，做一点自己用得上的工具，也把学习和生活里的片段留在这里。
 </p>
 
