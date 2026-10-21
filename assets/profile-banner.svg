@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Linn / ONLYLOVELYKISS</title>
+  <desc id="desc">日常观察，慢慢做成有用的东西。深色底上的樱花枝条插画。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111817" />
+      <stop offset="0.58" stop-color="#1b2924" />
+      <stop offset="1" stop-color="#29352e" />
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="35%" r="58%">
+      <stop offset="0" stop-color="#bf5945" stop-opacity=".23" />
+      <stop offset="1" stop-color="#bf5945" stop-opacity="0" />
+    </radialGradient>
+    <g id="flower" fill="#e9a08b" stroke="#f2c1ae" stroke-width="1.4">
+      <ellipse cy="-10" ry="10" rx="5.5" />
+      <ellipse cy="-10" ry="10" rx="5.5" transform="rotate(72)" />
+      <ellipse cy="-10" ry="10" rx="5.5" transform="rotate(144)" />
+      <ellipse cy="-10" ry="10" rx="5.5" transform="rotate(216)" />
+      <ellipse cy="-10" ry="10" rx="5.5" transform="rotate(288)" />
+      <circle r="3.2" fill="#f5d9a7" stroke="none" />
+    </g>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)" />
+  <rect width="1200" height="320" rx="24" fill="url(#glow)" />
+
+  <g fill="none" stroke="#8d7469" stroke-linecap="round" opacity=".6">
+    <path d="M720 338 C824 270 824 208 916 145 C990 94 1050 72 1218 28" stroke-width="5" />
+    <path d="M878 176 C861 130 837 105 798 83 M947 130 C948 91 937 63 913 35 M1018 101 C1060 116 1095 138 1114 170 M1094 73 C1112 47 1131 24 1165 8" stroke-width="2.2" />
+    <path d="M833 240 C790 218 759 193 738 160 M971 117 C1000 72 1035 50 1071 40" stroke-width="1.6" />
+  </g>
+
+  <g opacity=".95">
+    <use href="#flower" transform="translate(798 82) scale(.92)" />
+    <use href="#flower" transform="translate(913 35) scale(.72)" />
+    <use href="#flower" transform="translate(1114 170) scale(.82)" />
+    <use href="#flower" transform="translate(1071 40) scale(.66)" />
+    <use href="#flower" transform="translate(738 160) scale(.58)" />
+  </g>
+
+  <g fill="#f2c1ae" opacity=".72">
+    <circle cx="858" cy="58" r="2" /><circle cx="1001" cy="191" r="2.4" />
+    <circle cx="1147" cy="112" r="1.8" /><circle cx="756" cy="115" r="1.6" />
+    <circle cx="1049" cy="229" r="1.7" /><circle cx="929" cy="247" r="1.4" />
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="76" y="88" fill="#e9a08b" font-size="15" font-weight="700" letter-spacing="4">A PERSONAL SPACE</text>
+    <text x="72" y="172" fill="#f2f5ef" font-size="76" font-weight="700" letter-spacing="-2">Linn</text>
+    <text x="78" y="211" fill="#b9c8be" font-size="20" letter-spacing="2">ONLYLOVELYKISS</text>
+    <path d="M78 245h46" stroke="#e9a08b" stroke-width="3" stroke-linecap="round" />
+    <text x="78" y="279" fill="#d5ddd6" font-size="17">日常观察，慢慢做成有用的东西。</text>
+  </g>
+</svg>
